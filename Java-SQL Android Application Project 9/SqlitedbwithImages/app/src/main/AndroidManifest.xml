@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="info.teams.sqlitedbwithimages">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/teamlogo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".activities.DisplayPlayersList"></activity>
+        <activity android:name=".activities.PlayersActivity" />
+        <activity android:name=".activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.InsertDataActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".activities.editActivity"
+            android:label="Edit Team" />
+    </application>
+
+</manifest>
