@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "selfProfit",
+    "slug": "selfProfit",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyABLsg-SW3exZ9c-9kHM45LNi_xDqiepmU"
+      },
+      "bundleIdentifier": "com.selfprofit",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBifFY0xmQga_cOxdFhaqd7fJlS66XSrMo"
+        }
+      },
+      "package": "com.selfprofit",
+      "versionCode": 1
+    },
+    "description": "Application for Dissertation Connor Haines 17029531",
+    "githubUrl": "https://github.com/ConnorHaines/SelfProfitDiss"
+  }
+}
