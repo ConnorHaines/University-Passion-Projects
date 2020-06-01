@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuthenticationInfo">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>AuthenticationInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Authenticator">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Authenticator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProofofID">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProofofID.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sensors">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Sensors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemperatureSensor">
+    <Position X="4" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAECAACAAAAAIAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Sensors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HumiditySensor">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAECAAAAAAAAIAAAAAAAAAAAAAAEAAAAg=</HashCode>
+      <FileName>Sensors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VoltageSensor">
+    <Position X="7.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAECAAAAAAAAIAAAAAAAIAAAAAAEAAAAA=</HashCode>
+      <FileName>Sensors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAABAAAAAIAIAAAACAAAAAAAABAAAgAAAgA=</HashCode>
+      <FileName>Subject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

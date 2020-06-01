@@ -1,0 +1,13 @@
+﻿  AuthenticationInfo.cpp
+  Authenticator.cpp
+  ProofofID.cpp
+  SecureSoftwareCoursework_17025931.cpp
+c:\users\connor\documents\fixed\securesoftwarecoursework_17025931\sensors.h(14): warning C4100: 'value': unreferenced formal parameter
+  Sensors.cpp
+c:\users\connor\documents\fixed\securesoftwarecoursework_17025931\sensors.h(14): warning C4100: 'value': unreferenced formal parameter
+  Subject.cpp
+  Generating Code...
+c:\users\connor\documents\fixed\securesoftwarecoursework_17025931\securesoftwarecoursework_17025931.cpp(133): warning C4702: unreachable code
+c:\users\connor\documents\fixed\securesoftwarecoursework_17025931\securesoftwarecoursework_17025931.cpp(136): warning C4702: unreachable code
+c:\users\connor\documents\fixed\securesoftwarecoursework_17025931\securesoftwarecoursework_17025931.cpp(139): warning C4702: unreachable code
+  secureSoftwareCoursework_17025931.vcxproj -> C:\Users\Connor\Documents\FIxed\x64\Debug\secureSoftwareCoursework_17025931.exe
